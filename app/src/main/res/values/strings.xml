@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ExempleRetrofit</string>
+    <string name="photo_employee">photo_employee</string>
 </resources>
